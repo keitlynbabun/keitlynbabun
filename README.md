@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keitlynbabun
-- 🌱 I’m currently learning data waregousing
+- 🌱 I’m currently learning data warehousing
 - 📫 How to reach me keitlyn.babun@gmail.com
 
 <!---
